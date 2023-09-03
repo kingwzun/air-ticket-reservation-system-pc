@@ -1,0 +1,135 @@
+{
+  "id": "4139358",
+  "name": "flight",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1072934",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "6246292",
+      "name": "公告",
+      "font_class": "gonggao1",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "15920554",
+      "name": "托运",
+      "font_class": "tuoyun",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "990",
+      "name": "旅行",
+      "font_class": "lvxing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "356439",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "658012",
+      "name": "飞机",
+      "font_class": "feiji1",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "1115839",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1277687",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1365379",
+      "name": "统计",
+      "font_class": "tongji1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "2076433",
+      "name": "航班动态",
+      "font_class": "hangbandongtai",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    },
+    {
+      "icon_id": "4397459",
+      "name": "代理商",
+      "font_class": "dailishang",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "5122079",
+      "name": "订单",
+      "font_class": "dingdan-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5258353",
+      "name": "航线",
+      "font_class": "hangxian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6364507",
+      "name": "航行公告",
+      "font_class": "hanghanggonggao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9874556",
+      "name": "KHCFDC_员工工号",
+      "font_class": "yuangonggonghao",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "10056231",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "10487464",
+      "name": "机场",
+      "font_class": "jichang",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "11409200",
+      "name": "人员管理",
+      "font_class": "renyuanguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
